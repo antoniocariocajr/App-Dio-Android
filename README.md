@@ -1,2 +1,2 @@
 # Meu Primeiro App Android Dio
-Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO, utilizando o conceito de internacionalização (i18n), ou seja, um App que terá suporte a diversas línguas, como inglês, português e espanhol.
+Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO, utilizando o conceito de internacionalização (i18n), ou seja, um App que terá suporte a diversas línguas, como inglês, português e espanhol
